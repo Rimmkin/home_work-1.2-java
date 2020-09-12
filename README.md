@@ -5,7 +5,7 @@
 11.09.2020-12.10.2020 проведено функциональное тестирование приложения untitled.
 
 На тестирование затрачено: 2 часа
-
+яя
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/Rimmkin/home_work-1.2-java/issues/1
 * https://github.com/Rimmkin/home_work-1.2-java/issues/2

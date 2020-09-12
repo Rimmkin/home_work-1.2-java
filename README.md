@@ -7,10 +7,10 @@
 На тестирование затрачено: 2 часа
 яя
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Rimmkin/home_work-1.2-java/issues/1
-* https://github.com/Rimmkin/home_work-1.2-java/issues/2
-* https://github.com/Rimmkin/home_work-1.2-java/issues/3
-* https://github.com/Rimmkin/home_work-1.2-java/issues/4
+* [Ошибка при введении валидного номера кредитной карты American](https://github.com/Rimmkin/home_work-1.2-java/issues/1)
+* [Ошибка при вводе валидного номера кредитной карты Discover](https://github.com/Rimmkin/home_work-1.2-java/issues/2)
+* [Ошибка при вводе валидного номера карты Diners Club - Carte Blanche](https://github.com/Rimmkin/home_work-1.2-java/issues/3)
+* [шибка при вводе валидного номера карты Diners Club - International](https://github.com/Rimmkin/home_work-1.2-java/issues/4)
 
 ## Описание процесса тестирования
 

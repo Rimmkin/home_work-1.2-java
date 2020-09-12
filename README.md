@@ -7,10 +7,10 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Rimmkin/home_work-1.2-java/issues/1#issue-700156173
-* https://github.com/Rimmkin/home_work-1.2-java/issues/2#issue-700160024
-* https://github.com/Rimmkin/home_work-1.2-java/issues/3#issue-700162051
-* https://github.com/Rimmkin/home_work-1.2-java/issues/4#issue-700164332
+* https://github.com/Rimmkin/home_work-1.2-java/issues/1
+* https://github.com/Rimmkin/home_work-1.2-java/issues/2
+* https://github.com/Rimmkin/home_work-1.2-java/issues/3
+* https://github.com/Rimmkin/home_work-1.2-java/issues/4
 
 ## Описание процесса тестирования
 
